@@ -18,5 +18,11 @@ public class Day10 {
 
         // batas nilai tipe data double
         System.out.println("Batas double: " + Double.MIN_VALUE + " sampai " + Double.MAX_VALUE);
+
+        // batas nilai tipe data char
+        System.out.println("Batas char: " + (int) Character.MIN_VALUE + " sampai " + (int) Character.MAX_VALUE);
+
+        // nilai tipe data boolean
+        System.out.println("Nilai boolean: true atau false");
     }
 }
